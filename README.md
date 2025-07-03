@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/docker-action-example@v1
+uses: actions/docker-action-example@v1.2
 with:
   who-to-greet: 'Mona the Octocat'
